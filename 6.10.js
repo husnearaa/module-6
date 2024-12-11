@@ -1,5 +1,7 @@
-// db.getCollection("massive-data").createIndex({ about :"text"})
 
+// compound index and text index
+
+// db.getCollection("massive-data").createIndex({ about :"text"})
 
 
 // text indexing
